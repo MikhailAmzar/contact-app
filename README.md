@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Contact Manager App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+User can view, add, update, and delete contacts in the list displayed.
 
 ## Available Scripts
 
